@@ -1,0 +1,187 @@
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe.config
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.pdb
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.LoginForm.resources
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.Properties.Resources.resources
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.GenerateResource.cache
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.pdb
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\MySql.Data.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\Google.Protobuf.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\Zstandard.Net.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\Renci.SshNet.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\System.Buffers.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\System.Memory.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\bin\Debug\MySql.Data.xml
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe.config
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CopyComplete
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.RegistrationForm.resources
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe.config
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.pdb
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\Zstandard.Net.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\Renci.SshNet.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\System.Memory.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\bin\Debug\MySql.Data.xml
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe.config
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.LoginForm.resources
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.RegistrationForm.resources
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CopyComplete
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.pdb
+C:\Users\Aleksandr\Desktop\C_Sharp\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.StartForm.resources
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.StartForm.resources
+C:\Users\Nik\source\repos\PracticeZhilin2020\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.HeadForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe.config
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.pdb
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Zstandard.Net.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Renci.SshNet.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Memory.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\MySql.Data.xml
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe.config
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.StartForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.HeadForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.LoginForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.Properties.Resources.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.RegistrationForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CopyComplete
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.pdb
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TopPForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe.config
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.pdb
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\MySql.Data.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Google.Protobuf.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Zstandard.Net.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\BouncyCastle.Crypto.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Ubiety.Dns.Core.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Renci.SshNet.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Buffers.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Hash.xxHash.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Memory.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Numerics.Vectors.dll
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\MySql.Data.xml
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csprojAssemblyReference.cache
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe.config
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TopPForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.StartForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.HeadForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.LoginForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.Properties.Resources.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.RegistrationForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TestForm.resources
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.GenerateResource.cache
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CoreCompileInputs.cache
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CopyComplete
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.pdb
+F:\program files\OpenServer\OpenServer\PROJECTS\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TeamInfoForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TeamInfoForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe.config
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.pdb
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\MySql.Data.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Google.Protobuf.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Zstandard.Net.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\BouncyCastle.Crypto.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Ubiety.Dns.Core.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Renci.SshNet.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Buffers.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Hash.xxHash.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Memory.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Numerics.Vectors.dll
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\MySql.Data.xml
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csprojAssemblyReference.cache
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe.config
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TopPForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.StartForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.HeadForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.LoginForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.Properties.Resources.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.RegistrationForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TeamInfoForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TestForm.resources
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.GenerateResource.cache
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CoreCompileInputs.cache
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CopyComplete
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.pdb
+F:\program files\OpenServer\OpenServer\C#\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.AdminForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.AdminForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.PlInfoForm.resources
+C:\Users\Aleksandr\Desktop\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TeamsForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe.config
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.exe
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\PracticeZhilin2020.pdb
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Zstandard.Net.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\Renci.SshNet.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Buffers.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Memory.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\bin\Debug\MySql.Data.xml
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe.config
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.AdminForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.PlInfoForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TeamsForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TopPForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.StartForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.HeadForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.LoginForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.Properties.Resources.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.RegistrationForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.TeamInfoForm.resources
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.GenerateResource.cache
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.csproj.CopyComplete
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.exe
+C:\Users\Aleksandr\Documents\C_SHARP_NEW\PracticeZhilin2020\obj\Debug\PracticeZhilin2020.pdb
